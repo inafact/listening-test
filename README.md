@@ -6,7 +6,15 @@ Listening Test
 このREADMEはオープンまで（もしかしたら後も）更新され、いずれかのリビジョンを展示の概要文・導入文として会場にも置く予定です。
 
 
-## 雑多なリンク、制作に関するメモ
+## 概要文の下書きとしてのエッセイのようなもの
+
+この展示（及び作品）は大雑把に言って、会場に設置されたモノフォニックシンセサイザーとしての機能を持った２台のコンピューターが対話的に、あるいは周囲の音に反応して勝手に演奏・発音を行うインスタレーションです。
+
+各々のコンピューターにはスピーカーとマイクがそれぞれ接続されてあり、「声のような音」として認識されたもの（これには必ずしも対話が成立しないという意味で対になったもう一台のコンピューターが出す音も含まれる）を適宜集音・録音・解析し、自身の音響合成とコンポジションに役立てます。
+
+// 続
+
+## 雑多なリンクとメモ
 
 - WaveNet: A Generative Model for Raw Audio
 
@@ -23,6 +31,7 @@ Listening Test
 
     - https://arxiv.org/pdf/1610.06918v1.pdf
     - http://wired.jp/2016/11/02/google-ai-encryption/
+
   - スラング、投稿型辞書
     - [urban dictionary](http://www.urbandictionary.com/)
 
@@ -31,6 +40,11 @@ Listening Test
   - http://jp.techcrunch.com/2016/11/23/20161122googles-ai-translation-tool-seems-to-have-invented-its-own-secret-internal-language/
   - https://arxiv.org/pdf/1611.04558v1.pdf
   - [ウィキペディア日本版・『中間言語』の項目](https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%96%93%E8%A8%80%E8%AA%9E)
+
+
+- 機械学習・解析系の技術が最終的にもたらす結果よりもフローや中間状態に自分が惹かれるなと思ったものn選（まだあった気がする）
+  - http://playground.tensorflow.org
+  - https://vimeo.com/12774628
 
 
 - 音声学、音による言語の分類・研究
@@ -52,5 +66,7 @@ Listening Test
   - [ccc-tv / Machine Dreams, 29:00あたりくらいから](https://media.ccc.de/v/33c3-8369-machine_dreams)
 
 
-- Rashad Becker / Traditional Music of Notional Species Vol. I / II
-  - [ele-king review（Traditional Music of Notional Species Vol. II）](http://www.ele-king.net/review/album/005497/)
+- （割と直接的に）刺激を受けた作品とか
+
+    - Rashad Becker / Traditional Music of Notional Species Vol. I / II
+      - [ele-king review（Traditional Music of Notional Species Vol. II）](http://www.ele-king.net/review/album/005497/)
