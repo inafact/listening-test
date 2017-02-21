@@ -19,12 +19,12 @@ Listening Test
 - 人工言語、隠語 / スラング、特定の者にだけ理解できる言語
   - グーグルの人工知能、自ら情報の「暗号化」を学ぶ
 
-    そういえばエンジニアはある通信プトコルに対応していることを「○○が話せる」と言ったりする
+    そういえばソフトウェアがある通信プトコルに対応していることを「○○が話せる」と喩えたりする
 
     - https://arxiv.org/pdf/1610.06918v1.pdf
     - http://wired.jp/2016/11/02/google-ai-encryption/
   - スラング、投稿型辞書
-    - [urbandictionary](http://www.urbandictionary.com/)
+    - [urban dictionary](http://www.urbandictionary.com/)
 
 
 - AIによる翻訳・中間言語
@@ -44,6 +44,7 @@ Listening Test
 
   - [外の音: フィールド・レコーディングの流儀](https://www.ableton.com/ja/blog/art-of-field-recording/)
 
+
 - シンセサイザーの比喩
 
   ざっくりとだけど一応全部見た
@@ -51,5 +52,5 @@ Listening Test
   - [ccc-tv / Machine Dreams, 29:00あたりくらいから](https://media.ccc.de/v/33c3-8369-machine_dreams)
 
 
-- Rashad Becker /Traditional Music of Notional Species Vol. I / II
-  - [ele-king review](http://www.ele-king.net/review/album/005497/)
+- Rashad Becker / Traditional Music of Notional Species Vol. I / II
+  - [ele-king review（Traditional Music of Notional Species Vol. II）](http://www.ele-king.net/review/album/005497/)
